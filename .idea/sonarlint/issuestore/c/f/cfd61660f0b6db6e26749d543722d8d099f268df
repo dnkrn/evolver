@@ -1,0 +1,21 @@
+
+`squid:S2147"DCombine this catch with the one at line 81, which has the same body.(ï­£Ä8åşŸá+
+lsquid:S00116"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÀÿ±8›ÆŸ á+
+usquid:S00116"SRename this field "per_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾åï‡ÿÿÿÿÿ8±Å£á+
+Fsquid:S00108")Either remove or fill this block of code.(ï­£Ä8åşŸá+
+Fsquid:S00108")Either remove or fill this block of code.(Ã³«æ8»ÒõŸá+
+ssquid:S00116"QRename this field "Poster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îüæùÿÿÿÿ8º¶ á+
+xsquid:S00116"VRename this field "total_pages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úò¶»ÿÿÿÿÿ8±Å£á+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïß¶á8±Å£á+
+Ksquid:S00108")Either remove or fill this block of code.(Ù™Öùÿÿÿÿ8»ÒõŸá+
+Vsquid:S1141"5Extract this nested try block into a separate method.(ê«ûÕşÿÿÿÿ8»ÒõŸá+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú—Ò—şÿÿÿÿ8±Å£á+
+msquid:S00116"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¨„æ8¾É á+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁ8æÑµá+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¬¾ê8±Å£á+
+qsquid:S00116"ORename this field "Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿà¢ªüÿÿÿÿ8éİ á+
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şñ—,8±Å£á+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¬¾ê8±Å£á+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±Å£á+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïß¶á8±Å£á+
